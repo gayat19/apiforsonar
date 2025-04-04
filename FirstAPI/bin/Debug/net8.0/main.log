@@ -1,0 +1,7 @@
+2025-04-04 13:18:22,395 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-04-04 13:18:22,422 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-04-04 13:18:22,430 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Corp\Giosys\Hexaware\17March2025\Participants\Day11\FirstAPISolution\FirstAPI
+2025-04-04 13:18:31,811 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (35ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM [Employees] AS [e]
+WHERE [e].[Id] = @__id_0

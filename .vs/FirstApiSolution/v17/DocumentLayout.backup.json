@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\dtos\\errorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\dtos\\errorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\services\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\interfaces\\isalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\interfaces\\isalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\repositories\\employeesalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\employeesalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\repositories\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\misc\\salarymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\misc\\salarymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\misc\\employeesalarymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\misc\\employeesalarymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\dtos\\assignsalaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\dtos\\assignsalaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\dtos\\salaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\dtos\\salaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\dtos\\employeesalaryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\dtos\\employeesalaryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\contexts\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\contexts\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log4net.config",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\log4net.config",
+              "RelativeDocumentMoniker": "FirstAPI\\log4net.config",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\log4net.config",
+              "RelativeToolTip": "FirstAPI\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-04T07:44:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeSalaryRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Repositories\\EmployeeSalaryRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\EmployeeSalaryRepository.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Repositories\\EmployeeSalaryRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\EmployeeSalaryRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:31:53.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Services\\SalaryService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Services\\SalaryService.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Services\\SalaryService.cs",
+              "RelativeToolTip": "FirstAPI\\Services\\SalaryService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:21:50.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Program.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Program.cs",
+              "RelativeToolTip": "FirstAPI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:23:42.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Misc\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\CustomExceptionFilter.cs*",
+              "RelativeToolTip": "FirstAPI\\Misc\\CustomExceptionFilter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:36:28.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\SalaryController.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\SalaryController.cs*",
+              "RelativeToolTip": "FirstAPI\\Controllers\\SalaryController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:16:37.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISalaryService.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Interfaces\\ISalaryService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Interfaces\\ISalaryService.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Interfaces\\ISalaryService.cs",
+              "RelativeToolTip": "FirstAPI\\Interfaces\\ISalaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:32:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorObject.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\ErrorObject.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\ErrorObject.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\ErrorObject.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\ErrorObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:42:40.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalaryRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Repositories\\SalaryRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\SalaryRepository.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Repositories\\SalaryRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\SalaryRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:31:44.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssignSalaryResponse.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\AssignSalaryResponse.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\AssignSalaryResponse.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\AssignSalaryResponse.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\AssignSalaryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:31:11.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeSalaryRequest.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\EmployeeSalaryRequest.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\EmployeeSalaryRequest.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\EmployeeSalaryRequest.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\EmployeeSalaryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:30:50.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalaryResponse.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\SalaryResponse.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\SalaryResponse.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\SalaryResponse.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\SalaryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:30:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeSalaryMapper.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\EmployeeSalaryMapper.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Misc\\EmployeeSalaryMapper.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\EmployeeSalaryMapper.cs",
+              "RelativeToolTip": "FirstAPI\\Misc\\EmployeeSalaryMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:22:17.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalaryMapper.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\SalaryMapper.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Misc\\SalaryMapper.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\SalaryMapper.cs",
+              "RelativeToolTip": "FirstAPI\\Misc\\SalaryMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:21:06.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeManagementContext.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Contexts\\EmployeeManagementContext.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Contexts\\EmployeeManagementContext.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Contexts\\EmployeeManagementContext.cs",
+              "RelativeToolTip": "FirstAPI\\Contexts\\EmployeeManagementContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:30:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeSalary.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\EmployeeSalary.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\EmployeeSalary.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\EmployeeSalary.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\EmployeeSalary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:30:06.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\Salary.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\Salary.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\Salary.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:29:57.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
